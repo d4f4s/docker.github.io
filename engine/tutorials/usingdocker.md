@@ -15,7 +15,7 @@ containers using the `docker run` command. You ran an *interactive container*
 that ran in the foreground. You also ran a *detached container* that ran in the
 background. In the process you learned about several Docker commands:
 
-* `docker ps` - Lists containers.
+* `docker ps` - Lists running containers.
 * `docker logs` - Shows the standard output of a container.
 * `docker stop` - Stops running containers.
 
